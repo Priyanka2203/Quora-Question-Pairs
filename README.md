@@ -12,3 +12,21 @@ Kaggle Winning Solution and other approaches: https://www.dropbox.com/sh/93968nf
 Blog 1 : https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning
 
 Blog 2 : https://towardsdatascience.com/identifying-duplicate-questions-on-quora-top-12-on-kaggle-4c1cf93f1c30
+
+Responsibilities:
+
+ Reading data and basic statistics
+
+ Distribute data points among output classes
+
+ Find out number of unique questions
+
+ Check out for duplicate questions
+
+ Determine the number of occurrences of each question
+
+ Check for null values
+
+ Extract basic features
+
+ Analyze some of the extracted features
